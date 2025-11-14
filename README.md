@@ -1,6 +1,6 @@
-# 🏥 Oftalmo da Paulista -- Portal
+# 🏥 Oftalmo da Paulista - Portal
 
-## 📁 Repositório de Temas -- Área do Profissional e Área do Paciente
+## 📁 Repositório de Temas - Área do Profissional e Área do Paciente
 
 Este repositório armazena os temas utilizados nas duas áreas do portal:
 
