@@ -1,10 +1,10 @@
 # 🏥 Oftalmo da Paulista -- Portal
 
-## 📁 Repositório de Temas -- Área Profissional e Área do Paciente
+## 📁 Repositório de Temas -- Área do Profissional e Área do Paciente
 
 Este repositório armazena os temas utilizados nas duas áreas do portal:
 
-- **Área Profissional**
+- **Área do Profissional**
 - **Área do Paciente**
 
 Cada área possui seu próprio ambiente WordPress no servidor, com
@@ -29,7 +29,7 @@ Antes de realizar o deploy, verifique:
 
 ## 📂 Caminhos dos Temas no Servidor
 
-### **Área Profissional**
+### **Área do Profissional**
 
     /home/storage/c/9b/89/oftalmodapaulist2/public_html/profissional/wp-content/themes/prof-oftalmo
 
