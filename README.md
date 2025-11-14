@@ -15,9 +15,9 @@ diretórios de temas separados.
 ## 🚀 Deploy (Envio de Arquivos)
 
 O envio de arquivos para o servidor deve ser realizado através do plugin
-do **VS Code**, utilizando a configuração presente na pasta `.vscode`.
+do **VS Code**, utilizando a configuração presente na pasta `.vscode/sftp.json`.
 
-Cada área tem o seu .vscode/sftp.json.
+Cada área tem o seu `.vscode/sftp.json`.
 
 Antes de realizar o deploy, verifique:
 
