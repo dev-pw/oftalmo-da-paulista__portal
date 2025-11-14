@@ -1,0 +1,20 @@
+{
+    "name": "área paciente",
+    "host": "",
+    "protocol": "sftp",
+    "port": 22,
+    "username": "",
+    "password": "",
+    "remotePath": "/home/storage/c/9b/89/oftalmodapaulist2/public_html/paciente/wp-content/themes/prof-oftalmo",
+    "context": "themes/prof-oftalmo",
+    "uploadOnSave": true,
+    "watcher": {
+        "files": "**/*.{css,css.map}",
+        "autoUpload": true,
+        "autoDelete": false
+    },
+    "ignore": [
+        "node_modules",
+        "package-lock.json"
+    ]
+}
