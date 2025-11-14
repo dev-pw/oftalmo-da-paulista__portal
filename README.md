@@ -21,11 +21,11 @@ Cada área tem o seu `.vscode/sftp.json`.
 
 Antes de realizar o deploy, verifique:
 
-- ✔️ O arquivo **`sftp.json`** (ou equivalente) está configurado
+✔️ O arquivo **`sftp.json`** (ou equivalente) está configurado
     corretamente.
-- ✔️ Credenciais e host atualizados.
-- ✔️ Caminhos de destino corretos para cada área.
-- ✔️ Se o deploy será feito somente no tema correto
+✔️ Credenciais e host atualizados.
+✔️ Caminhos de destino corretos para cada área.
+✔️ Se o deploy será feito somente no tema correto
 
 ------------------------------------------------------------------------
 
