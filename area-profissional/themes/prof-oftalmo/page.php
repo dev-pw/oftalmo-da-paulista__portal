@@ -20,9 +20,9 @@ echo '<!-- Start Content -->' . "\n";
 
 
 if ($cmsmasters_layout == 'r_sidebar') {
-	echo '<div class="content entry">' . "\n\t";
+	echo '<div class="content entry entry-content-post py-5">' . "\n\t";
 } elseif ($cmsmasters_layout == 'l_sidebar') {
-	echo '<div class="content entry fr">' . "\n\t";
+	echo '<div class="content entry entry-content-post py-5 fr">' . "\n\t";
 } else {
 	echo '<div class="middle_content entry entry-content-post py-5">';
 }

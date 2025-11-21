@@ -1,7 +1,7 @@
 <section class="pt-5" style="background: url(<?= wp_get_attachment_image_src( 14379,'full')[0]; ?>) no-repeat; background-size: cover; background-attachment: fixed;">
     <div class="container text-center mb-5">
-        <p class="text-white m-0 p-0">Sobre</p>
-        <h2 class="text-white h2 fw-bold mb-5">O que atendemos</h2>
+        <!-- <p class="text-white m-0 p-0">Sobre</p>
+        <h2 class="text-white h2 fw-bold mb-5">O que atendemos</h2> -->
 
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 justify-content-center g-4">
 
